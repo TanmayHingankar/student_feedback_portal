@@ -131,27 +131,6 @@ After submission:
 
 ---
 
-## 🏗️ System Architecture
-
-```mermaid
-flowchart LR
-  Student[Student Feedback UI] --> ReactApp[React Router App]
-  ReactApp -->|POST /api/feedback| Express[Express API]
-
-  Express --> Mongo[(MongoDB via Mongoose)]
-  Express --> CertSvc[Certificate Service (PDFKit)]
-  CertSvc --> PDF[Certificate PDF]
-  Express --> QR[QR Generation (qrcode)]
-  QR --> QRImg[QR Code]
-  Express --> EmailSvc[Email Service (Nodemailer)]
-  EmailSvc --> Mail[SMTP Provider]
-
-  Admin[Admin Dashboard] -->|JWT protected| Express
-  Express --> Analytics[Analytics & Exports]
-```
-
----
-
 ## 📁 Folder Structure
 
 ```tree
