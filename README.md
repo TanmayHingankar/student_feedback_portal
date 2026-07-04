@@ -82,7 +82,7 @@ After submission:
 
 ## 📸 Screenshots (Placeholders)
 
-001<img width="1536" height="1024" alt="ChatGPT Image Jul 4, 2026, 09_32_45 PM" src="https://github.com/user-attachments/assets/f874f35e-dafd-4a03-9dab-1397318416d1" />
+<img width="1536" height="1024" alt="ChatGPT Image Jul 4, 2026, 09_32_45 PM" src="https://github.com/user-attachments/assets/f874f35e-dafd-4a03-9dab-1397318416d1" />
 <img width="1536" height="1024" alt="ChatGPT Image Jul 4, 2026, 09_32_53 PM" src="https://github.com/user-attachments/assets/d560301d-77cd-4e93-b8e7-072291da80e3" />
 <img width="1536" height="1024" alt="ChatGPT Image Jul 4, 2026, 09_33_00 PM" src="https://github.com/user-attachments/assets/445ed0e9-3b97-4c32-8ddb-673b0b67cafa" />
 <img width="1536" height="1024" alt="ChatGPT Image Jul 4, 2026, 09_33_24 PM" src="https://github.com/user-attachments/assets/74198984-1c39-4817-99cc-6853d0d5710c" />
