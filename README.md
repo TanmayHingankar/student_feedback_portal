@@ -80,7 +80,7 @@ After submission:
 
 ---
 
-## 📸 Screenshots (Placeholders)
+## 📸 Screenshots 
 
 <img width="1536" height="1024" alt="ChatGPT Image Jul 4, 2026, 09_32_45 PM" src="https://github.com/user-attachments/assets/f874f35e-dafd-4a03-9dab-1397318416d1" />
 <img width="1536" height="1024" alt="ChatGPT Image Jul 4, 2026, 09_32_53 PM" src="https://github.com/user-attachments/assets/d560301d-77cd-4e93-b8e7-072291da80e3" />
