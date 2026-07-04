@@ -491,5 +491,4 @@ MIT
 
 GitHub: https://github.com/TanmayHingankar
 
-LinkedIn: (add placeholder)
 
