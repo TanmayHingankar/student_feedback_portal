@@ -82,16 +82,15 @@ After submission:
 
 ## 📸 Screenshots (Placeholders)
 
-### Frontend
-- Landing Page
-- Feedback Form
-- Success Page
-- Certificate Preview
-- Admin Login
-- Dashboard
-- Analytics
+001<img width="1536" height="1024" alt="ChatGPT Image Jul 4, 2026, 09_32_45 PM" src="https://github.com/user-attachments/assets/f874f35e-dafd-4a03-9dab-1397318416d1" />
+<img width="1536" height="1024" alt="ChatGPT Image Jul 4, 2026, 09_32_53 PM" src="https://github.com/user-attachments/assets/d560301d-77cd-4e93-b8e7-072291da80e3" />
+<img width="1536" height="1024" alt="ChatGPT Image Jul 4, 2026, 09_33_00 PM" src="https://github.com/user-attachments/assets/445ed0e9-3b97-4c32-8ddb-673b0b67cafa" />
+<img width="1536" height="1024" alt="ChatGPT Image Jul 4, 2026, 09_33_24 PM" src="https://github.com/user-attachments/assets/74198984-1c39-4817-99cc-6853d0d5710c" />
+<img width="1536" height="1024" alt="ChatGPT Image Jul 4, 2026, 09_33_32 PM" src="https://github.com/user-attachments/assets/9fec8d6e-8f02-4126-bbd5-7d5222fd5f0c" />
+<img width="1536" height="1024" alt="ChatGPT Image Jul 4, 2026, 09_32_22 PM" src="https://github.com/user-attachments/assets/77876c18-d8aa-4db2-b65e-f6909c7d66b6" />
+<img width="1536" height="1024" alt="ChatGPT Image Jul 4, 2026, 09_32_31 PM" src="https://github.com/user-attachments/assets/61208acf-f7ac-4d8c-9495-545fdea2ddbc" />
+<img width="1536" height="1024" alt="ChatGPT Image Jul 4, 2026, 09_32_38 PM" src="https://github.com/user-attachments/assets/d2bd9073-b877-4942-951b-b7a612a12e2d" />
 
-> Screenshots should be placed under `docs/screenshots/`.
 
 ---
 
